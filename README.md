@@ -9,7 +9,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Ankit-Sharma1011/threejs-portfolio/commits/main "Maintenance")
 [![GitHub branches](https://badgen.net/github/branches/Ankit-Sharma1011/threejs-portfolio)](https://github.com/Ankit-Sharma1011/threejs-portfolio/branches "GitHub branches")
 [![Github commits](https://badgen.net/github/commits/Ankit-Sharma1011/threejs-portfolio/main)](https://github.com/Ankit-Sharma1011/threejs-portfolio/commits "Github commits")
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fc571aab-62d5-4a87-83e0-764832d5ce16/deploy-status)](https://web-3d.netlify.app/ "Netlify Status")
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fc571aab-62d5-4a87-83e0-764832d5ce16/deploy-status)](https://ankit-portfilo.netlify.app/ "Netlify Status")
 [![GitHub issues](https://img.shields.io/github/issues/Ankit-Sharma1011/threejs-portfolio)](https://github.com/Ankit-Sharma1011/threejs-portfolio/issues "GitHub issues")
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/Ankit-Sharma1011/threejs-portfolio)](https://github.com/Ankit-Sharma1011/threejs-portfolio/pulls "GitHub pull requests")
 
