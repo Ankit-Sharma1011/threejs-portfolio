@@ -11,7 +11,7 @@
 [![Github commits](https://flat.badgen.net/github/commits/Ankit-Sharma1011/threejs-portfolio?icon=github&color=black&scale=1.01)](https://github.com/Ankit-Sharma1011/threejs-portfolio/commits "Github commits")
 [![GitHub issues](https://flat.badgen.net/github/issues/Ankit-Sharma1011/threejs-portfolio?icon=github&color=black&scale=1.01)](https://github.com/Ankit-Sharma1011/threejs-portfolio/issues "GitHub issues")
 [![GitHub pull requests](https://flat.badgen.net/github/prs/Ankit-Sharma1011/threejs-portfolio?icon=github&color=black&scale=1.01)](https://github.com/Ankit-Sharma1011/threejs-portfolio/pulls "GitHub pull requests")
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8c478bd6-ce9e-4d39-882e-a064a715cbd1/deploy-status)](https://portfolio-3js.netlify.app/ "Netlify Status")
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8c478bd6-ce9e-4d39-882e-a064a715cbd1/deploy-status)](https://ankit-portfilo.netlify.app/ "Netlify Status")
 
 <!-- Table of Contents -->
 <details>
