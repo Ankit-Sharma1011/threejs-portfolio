@@ -4,14 +4,14 @@
 
 ![Modern UI/UX Portfolio using React and Three.js](/.github/images/img_main.png "Modern UI/UX Portfolio using React and Three.js")
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/Ankit-Sharma1011 "Ask Me Anything!")
-[![GitHub license](https://flat.badgen.net/github/license/Ankit-Sharma1011/threejs-portfolio?icon=github&color=black&scale=1.01)](https://github.com/Ankit-Sharma1011/threejs-portfolio/blob/main/LICENSE "GitHub license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/Ankit-Sharma1011/threejs-portfolio/commits/main "Maintenance")
-[![GitHub branches](https://flat.badgen.net/github/branches/Ankit-Sharma1011/threejs-portfolio?icon=github&color=black&scale=1.01)](https://github.com/Ankit-Sharma1011/threejs-portfolio/branches "GitHub branches")
-[![Github commits](https://flat.badgen.net/github/commits/Ankit-Sharma1011/threejs-portfolio?icon=github&color=black&scale=1.01)](https://github.com/Ankit-Sharma1011/threejs-portfolio/commits "Github commits")
-[![GitHub issues](https://flat.badgen.net/github/issues/Ankit-Sharma1011/threejs-portfolio?icon=github&color=black&scale=1.01)](https://github.com/Ankit-Sharma1011/threejs-portfolio/issues "GitHub issues")
-[![GitHub pull requests](https://flat.badgen.net/github/prs/Ankit-Sharma1011/threejs-portfolio?icon=github&color=black&scale=1.01)](https://github.com/Ankit-Sharma1011/threejs-portfolio/pulls "GitHub pull requests")
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8c478bd6-ce9e-4d39-882e-a064a715cbd1/deploy-status)](https://ankit-portfilo.netlify.app/ "Netlify Status")
+[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Ankit-Sharma1011 "Ask Me Anything!")
+[![GitHub license](https://img.shields.io/github/license/Ankit-Sharma1011/threejs-portfolio)](https://github.com/Ankit-Sharma1011/threejs-portfolio/blob/main/LICENSE.md "GitHub license")
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Ankit-Sharma1011/threejs-portfolio/commits/main "Maintenance")
+[![GitHub branches](https://badgen.net/github/branches/Ankit-Sharma1011/threejs-portfolio)](https://github.com/Ankit-Sharma1011/threejs-portfolio/branches "GitHub branches")
+[![Github commits](https://badgen.net/github/commits/Ankit-Sharma1011/threejs-portfolio/main)](https://github.com/Ankit-Sharma1011/threejs-portfolio/commits "Github commits")
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fc571aab-62d5-4a87-83e0-764832d5ce16/deploy-status)](https://web-3d.netlify.app/ "Netlify Status")
+[![GitHub issues](https://img.shields.io/github/issues/Ankit-Sharma1011/threejs-portfolio)](https://github.com/Ankit-Sharma1011/threejs-portfolio/issues "GitHub issues")
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/Ankit-Sharma1011/threejs-portfolio)](https://github.com/Ankit-Sharma1011/threejs-portfolio/pulls "GitHub pull requests")
 
 <!-- Table of Contents -->
 <details>
